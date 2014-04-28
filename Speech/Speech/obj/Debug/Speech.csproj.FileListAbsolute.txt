@@ -1,0 +1,6 @@
+c:\users\user1\documents\visual studio 2012\Projects\Speech\Speech\bin\Debug\Speech.exe.config
+c:\users\user1\documents\visual studio 2012\Projects\Speech\Speech\obj\Debug\Speech.csprojResolveAssemblyReference.cache
+c:\users\user1\documents\visual studio 2012\Projects\Speech\Speech\bin\Debug\Speech.exe
+c:\users\user1\documents\visual studio 2012\Projects\Speech\Speech\bin\Debug\Speech.pdb
+c:\users\user1\documents\visual studio 2012\Projects\Speech\Speech\obj\Debug\Speech.exe
+c:\users\user1\documents\visual studio 2012\Projects\Speech\Speech\obj\Debug\Speech.pdb

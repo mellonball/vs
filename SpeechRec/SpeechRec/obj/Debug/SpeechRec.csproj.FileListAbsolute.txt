@@ -1,0 +1,1 @@
+c:\users\user1\documents\visual studio 2012\Projects\SpeechRec\SpeechRec\bin\Debug\SpeechRec.exe.config

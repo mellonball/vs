@@ -1,0 +1,11 @@
+C:\Users\user1\Documents\Visual Studio 2012\Projects\Assignment1part2\Assignment1part1\bin\Debug\Assignment1part1.exe.config
+C:\Users\user1\Documents\Visual Studio 2012\Projects\Assignment1part2\Assignment1part1\bin\Debug\Assignment1part1.exe
+C:\Users\user1\Documents\Visual Studio 2012\Projects\Assignment1part2\Assignment1part1\bin\Debug\Assignment1part1.pdb
+C:\Users\user1\Documents\Visual Studio 2012\Projects\Assignment1part2\Assignment1part1\obj\Debug\Assignment1part1.exe
+C:\Users\user1\Documents\Visual Studio 2012\Projects\Assignment1part2\Assignment1part1\obj\Debug\Assignment1part1.pdb
+C:\Users\user1\Documents\Visual Studio 2012\Projects\Assignment1\Assignment1part1\bin\Debug\Assignment1part1.exe.config
+C:\Users\user1\Documents\Visual Studio 2012\Projects\Assignment1\Assignment1part1\obj\Debug\Assignment1part1.exe
+C:\Users\user1\Documents\Visual Studio 2012\Projects\Assignment1\Assignment1part1\obj\Debug\Assignment1part1.pdb
+C:\Users\user1\Documents\Visual Studio 2012\Projects\Assignment1\Assignment1part1\bin\Debug\Assignment1part1.exe
+C:\Users\user1\Documents\Visual Studio 2012\Projects\Assignment1\Assignment1part1\bin\Debug\Assignment1part1.pdb
+C:\Users\user1\Documents\Visual Studio 2012\Projects\Assignment1\Assignment1part1\obj\Debug\Assignment1part1.csprojResolveAssemblyReference.cache
